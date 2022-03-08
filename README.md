@@ -11,7 +11,6 @@ picker and you will receive a calender instance from where you can fetch selecte
 
 ## Setup
 Use the following step to use this library.
-You can download a jar from GitHub's [releases page](https://github.com/Dibyendu91/MonthYearPicker/releases).
 
 Or use Gradle:
 ```gradle
